@@ -24,6 +24,20 @@ public class AnimChapter1 : MonoBehaviour
     public Image Chapter111;
     public Image Chapter112;
 
+    public float Time1;
+    public float Time2;
+    public float Time3;
+    public float Time4;
+    public float Time5;
+    public float Time6;
+    public float Time7;
+    public float Time8;
+    public float Time9;
+    public float Time10;
+    public float Time11;
+    public float Time12;
+    public float Time13;
+
     float ContextX;
     public float TotalTime;
     public int ImageCount;
@@ -63,19 +77,19 @@ public class AnimChapter1 : MonoBehaviour
     {
         ImageCount = 1;
         AddColor();//夹肈
-        Invoke("ChangeImage", 1.3f);//场だ1
-        Invoke("ChangeImage", 30.7f);//场だ2
-        Invoke("ChangeImage", 73);//场だ3
-        Invoke("ChangeImage", 100);//场だ4
-        Invoke("ChangeImage", 141);//场だ5
-        Invoke("ChangeImage", 174);//场だ6
-        Invoke("ChangeImage", 216);//场だ7
-        Invoke("ChangeImage", 247);//场だ8
-        Invoke("ChangeImage", 284);//场だ9
-        Invoke("ChangeImage", 324);//场だ10
-        Invoke("ChangeImage", 364);//场だ11
-        Invoke("ReduceColor", 399);
-        Invoke("CloseStopButton", 402);
+        Invoke("ChangeImage", Time1);//场だ1
+        Invoke("ChangeImage", Time2);//场だ2
+        Invoke("ChangeImage", Time3);//场だ3
+        Invoke("ChangeImage", Time4);//场だ4
+        Invoke("ChangeImage", Time5);//场だ5
+        Invoke("ChangeImage", Time6);//场だ6
+        Invoke("ChangeImage", Time7);//场だ7
+        Invoke("ChangeImage", Time8);//场だ8
+        Invoke("ChangeImage", Time9);//场だ9
+        Invoke("ChangeImage", Time10);//场だ10
+        Invoke("ChangeImage", Time11);//场だ11
+        Invoke("ReduceColor", Time12);
+        Invoke("CloseStopButton", Time13);
     }
     public void ChangeImage()
     {
