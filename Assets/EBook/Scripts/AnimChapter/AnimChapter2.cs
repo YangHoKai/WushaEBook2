@@ -82,18 +82,18 @@ public class AnimChapter2 : MonoBehaviour
     public void PlayAnim()
     {
         ImageCount = 1;
-        AddColor();//夹肈
-        Invoke("ChangeImage", Time1);//场だ1
-        Invoke("ChangeImage", Time2);//场だ2
-        Invoke("ChangeImage", Time3);//场だ3
-        Invoke("ChangeImage", Time4);//场だ4
-        Invoke("ChangeImage", Time5);//场だ5
-        Invoke("ChangeImage", Time6);//场だ6
-        Invoke("ChangeImage", Time7);//场だ7
-        Invoke("ChangeImage", Time8);//场だ8
-        Invoke("ChangeImage", Time9);//场だ9
-        Invoke("ChangeImage", Time10);//场だ10
-        Invoke("ChangeImage", Time11);//场だ11
+        AddColor();
+        Invoke("ChangeImage", Time1);
+        Invoke("ChangeImage", Time2);
+        Invoke("ChangeImage", Time3);
+        Invoke("ChangeImage", Time4);
+        Invoke("ChangeImage", Time5);
+        Invoke("ChangeImage", Time6);
+        Invoke("ChangeImage", Time7);
+        Invoke("ChangeImage", Time8);
+        Invoke("ChangeImage", Time9);
+        Invoke("ChangeImage", Time10);
+        Invoke("ChangeImage", Time11);
         Invoke("ChangeImage", Time12);
         Invoke("ChangeImage", Time13);
         Invoke("ChangeImage", Time14);
