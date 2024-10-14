@@ -44,8 +44,6 @@ public class AnimChapter5 : MonoBehaviour
     {
         ContextX = Content.transform.position.x;
     }
-
-    // Update is called once per frame
     void Update()
     {
         
@@ -87,8 +85,8 @@ public class AnimChapter5 : MonoBehaviour
         Invoke("ChangeImage", Time8);//场だ8
         Invoke("ChangeImage", Time9);//场だ9
         Invoke("ChangeImage", Time10);//场だ10
-        Invoke("ReduceColor", Time11);//场だ10
-        Invoke("CloseStopButton", Time12);//场だ11
+        Invoke("ReduceColor", Time11);//场だ11
+        Invoke("CloseStopButton", Time12);//挡
     }
     public void ChangeImage()
     {

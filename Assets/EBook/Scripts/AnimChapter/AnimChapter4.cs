@@ -83,7 +83,7 @@ public class AnimChapter4 : MonoBehaviour
         Invoke("ChangeImage", Time8);//场だ8
         Invoke("ChangeImage", Time9);//场だ9
         Invoke("ReduceColor", Time10);//场だ10
-        Invoke("CloseStopButton", Time11);//场だ11
+        Invoke("CloseStopButton", Time11);//挡
     }
     public void ChangeImage()
     {
