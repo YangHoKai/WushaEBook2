@@ -4354,17 +4354,17 @@ MonoBehaviour:
   Chapter48: {fileID: 481784236}
   Chapter49: {fileID: 1572902630}
   Chapter410: {fileID: 958263699}
-  Time1: 2
-  Time2: 5
-  Time3: 10
-  Time4: 15
-  Time5: 20
-  Time6: 25
-  Time7: 30
-  Time8: 35
-  Time9: 40
-  Time10: 45
-  Time11: 50
+  Time1: 1.1
+  Time2: 48
+  Time3: 77.5
+  Time4: 110
+  Time5: 167
+  Time6: 207.5
+  Time7: 259
+  Time8: 292
+  Time9: 320
+  Time10: 357
+  Time11: 359
   TotalTime: 0
   ImageCount: 0
   ColorCount: 0

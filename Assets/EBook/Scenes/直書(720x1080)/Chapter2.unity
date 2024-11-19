@@ -5120,21 +5120,21 @@ MonoBehaviour:
   Chapter214: {fileID: 74022411}
   Chapter215: {fileID: 1483226872}
   Time1: 1.3
-  Time2: 5
-  Time3: 10
-  Time4: 15
-  Time5: 20
-  Time6: 25
-  Time7: 30
-  Time8: 35
-  Time9: 40
-  Time10: 45
-  Time11: 50
-  Time12: 55
-  Time13: 60
-  Time14: 65
-  Time15: 70
-  Time16: 75
+  Time2: 14
+  Time3: 23
+  Time4: 47.5
+  Time5: 79
+  Time6: 114.5
+  Time7: 165
+  Time8: 232
+  Time9: 282.5
+  Time10: 311
+  Time11: 344.5
+  Time12: 386.5
+  Time13: 414.3
+  Time14: 434.5
+  Time15: 454
+  Time16: 456
   TotalTime: 0
   ImageCount: 0
   ColorCount: 0

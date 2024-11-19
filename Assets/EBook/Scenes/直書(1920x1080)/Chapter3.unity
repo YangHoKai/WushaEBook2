@@ -4121,17 +4121,17 @@ MonoBehaviour:
   Chapter38: {fileID: 751211756}
   Chapter39: {fileID: 1193154030}
   Chapter310: {fileID: 296787376}
-  Time1: 1.3
-  Time2: 5
-  Time3: 10
-  Time4: 15
-  Time5: 20
-  Time6: 25
-  Time7: 30
-  Time8: 35
-  Time9: 40
-  Time10: 45
-  Time11: 50
+  Time1: 1.1
+  Time2: 39.5
+  Time3: 72
+  Time4: 120
+  Time5: 165.3
+  Time6: 206.5
+  Time7: 250
+  Time8: 297.5
+  Time9: 350.5
+  Time10: 375
+  Time11: 377
   TotalTime: 0
   ImageCount: 0
   ColorCount: 0
