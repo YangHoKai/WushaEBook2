@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class SceneChange : MonoBehaviour
 {
     public int chapernum;
+    public string menu = "Menu";
     void Start()
     {
         
@@ -18,7 +19,7 @@ public class SceneChange : MonoBehaviour
     }
     public void Menu()
     {
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene(menu);
     }
     public void LastChapter()
     {
